@@ -1,5 +1,6 @@
-# Getting Started with Create React App
+# gh-test (Getting Started with Create React App)
 
+Learning github actions and testing CI/CD\
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
