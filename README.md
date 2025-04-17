@@ -2,6 +2,8 @@
 
 Learning github actions and testing CI/CD\
 
+Auto deployment using github actions
+
 ## Available Scripts
 
 In the project directory, you can run:
